@@ -27,3 +27,9 @@
        width: 100%;
        background-color: rgba(255, 241, 241, 0.295);
    }
+   
+   @media (max-width: 600px) {
+       #clock {
+           font-size: 4rem;
+       }
+   }
